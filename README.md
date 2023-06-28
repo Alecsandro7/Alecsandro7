@@ -21,4 +21,3 @@
 Apaixonado por tecnologia e pelo processo da vida
 
 
-![Snake animation](https://github.com/DevBatista1/DevBatista1/blob/output/github-contribution-grid-snake.svg)
