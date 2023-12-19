@@ -5,7 +5,6 @@
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/alecsandro__)
 
 
-![Alecsandro7 GitHub stats](https://github-readme-stats.vercel.app/api?username=Alecsandro7&show_icons=true&theme=dracula&count_private=true)
 
 ## Tecnologias que eu estou aprendendo e usando no meu dia
 
